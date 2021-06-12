@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harsh-Saparia
-- 👀 I’m interested in Problem Solving.
+- 👀 I’m interested in Web Development and Problem Solving.
 - 🌱 I’m currently learning ReactJS.
-- 📫 How to reach me 
+- 📫 How to reach me 9722520580.
 
 <!---
 Harsh-Saparia/Harsh-Saparia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh-Saparia
 - 👀 I’m interested in Web Development and Problem Solving.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently working as a software engineer at crest data systems.
 - 📫 How to reach me 9722520580.
 
 <!---
